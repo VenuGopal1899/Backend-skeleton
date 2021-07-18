@@ -18,4 +18,7 @@ This Service is Responsible for defining role for the users.
 ## **6. Zuul Proxy Service**
 Zuul Server is a gateway application that handles all the requests and does the dynamic routing of microservice applications.Zuul acts as an API gateway or Edge service. It receives all the requests coming from the UI and then delegates the requests to internal microservices
 
+#### Logger and Swagger are added in the project.
+if anyone want to log their is info then a log folder is created at the root level and inside that folder a log file is created with the service name.
+
 
